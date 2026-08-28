@@ -1,16 +1,34 @@
-## Hi there 👋
+# CryptoPulsa
 
-<!--
-**cryptopulsa/cryptopulsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CryptoPulsa — Pulsa & Produk Digital 24 Jam.
 
-Here are some ideas to get you started:
+## Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Platform penjualan pulsa dan produk digital dengan:
+
+- Website
+- PWA
+- CMS/Admin
+- Payment otomatis
+- Provider API
+- WhatsApp AI
+- SEO
+- Monitoring
+
+## Technology
+
+- Laravel
+- PHP
+- Supabase/PostgreSQL
+- REST API
+- PWA
+- WhatsApp API
+
+## Status
+
+Project sedang dalam tahap pembangunan.
+
+## Security
+
+Credential, API key, secret, password, dan environment variables
+tidak boleh disimpan di repository.
